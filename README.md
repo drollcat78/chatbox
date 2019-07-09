@@ -13,3 +13,4 @@ a real time chat application
 
 #### 3. run 'npm -install --save-dev nodemon' to restart server
 
+#### 4. run 'wscat -c ws://localhost:3001' to open several client to test the connection
